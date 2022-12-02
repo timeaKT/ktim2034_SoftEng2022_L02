@@ -1,2 +1,2 @@
 x = 'meg'
-print(x + 'ne')
+print(x + 'keso')
